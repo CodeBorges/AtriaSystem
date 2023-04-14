@@ -22,6 +22,10 @@ h1 {
     text-align: center;
 }
 
+    .user-card:hover{
+        cursor:pointer;
+    }
+
     .user-card img {
         width: 100px;
         height: 100px;
@@ -65,3 +69,4 @@ h1 {
     .meu-botao:hover {
         background-color: #0056b3;
     }
+

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Exercicios Udemy C#\\TesteAtria\\AtriaSystem\\AtriaSystem\\AtriaSystem.csproj": {}
+    "C:\\Desenvolvimento\\AtriaSystem\\AtriaSystem\\AtriaSystem.csproj": {}
   },
   "projects": {
-    "C:\\Exercicios Udemy C#\\TesteAtria\\AtriaSystem\\AtriaSystem\\AtriaSystem.csproj": {
+    "C:\\Desenvolvimento\\AtriaSystem\\AtriaSystem\\AtriaSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Exercicios Udemy C#\\TesteAtria\\AtriaSystem\\AtriaSystem\\AtriaSystem.csproj",
+        "projectUniqueName": "C:\\Desenvolvimento\\AtriaSystem\\AtriaSystem\\AtriaSystem.csproj",
         "projectName": "AtriaSystem",
-        "projectPath": "C:\\Exercicios Udemy C#\\TesteAtria\\AtriaSystem\\AtriaSystem\\AtriaSystem.csproj",
+        "projectPath": "C:\\Desenvolvimento\\AtriaSystem\\AtriaSystem\\AtriaSystem.csproj",
         "packagesPath": "C:\\Users\\João Victor Borges\\.nuget\\packages\\",
-        "outputPath": "C:\\Exercicios Udemy C#\\TesteAtria\\AtriaSystem\\AtriaSystem\\obj\\",
+        "outputPath": "C:\\Desenvolvimento\\AtriaSystem\\AtriaSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -27,6 +27,29 @@ const renderUserCards = (users) => {
       <p><i class="fas fa-birthday-cake"></i> ${new Date(user.dob.date).toLocaleDateString()}</p>
       <p><i class="fas ${user.gender === "male" ? "fa-mars" : "fa-venus"}"></i> ${user.gender}</p>
     `;
+        userCard.addEventListener("click", () => {
+            // Preencher o conteúdo do modal com as informações do usuário
+            const modal = document.getElementById("modal-body");
+            modal.innerHTML = `
+<div class="card" style="width: 18rem;">
+                    <div class="text-center">
+                    <img src="${user.picture.medium}" class="card-img-top rounded-circle w-50 m-3" alt="">
+                    </div>
+                    <div class="card-body border-top">
+                        <label style="opacity: 0.5">Name</label>
+                        <p class="card-text">${user.name.first} ${user.name.last}</p>
+                        <label style="opacity: 0.5">Phone</label>
+                        <p><i class="fas fa-phone"></i> ${user.phone}</p>
+                        <label style="opacity: 0.5">Birthday Date</label>
+                        <p><i class="fas fa-birthday-cake"></i> ${new Date(user.dob.date).toLocaleDateString() }</p>
+                        <label style="opacity: 0.5">Genre</label>
+                        <p><i class="fas ${user.gender === 'male' ? 'fa-mars' : 'fa-venus'}"></i> ${user.gender}</p>
+                    </div>
+                </div>
+            `;
+            // Exibir o modal
+            $('#infoModal').modal('toggle');
+        });
         userCardContainer.appendChild(userCard);
     });
 };

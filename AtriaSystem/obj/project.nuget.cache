@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xEpWJcIIiOZNVK5hdu/IBnr/gGmESY1zHaAIVPF9sYISlE/41YDP9P6nYFuZnzlkTJOLPxiaAo3MMZnFZACIRw==",
+  "dgSpecHash": "ZAgYhXeUqJwSO2fo3AVY2DDC9GAuAHcS0dtlRD2JNKFCdShX6YMPdLSgAx1+QTN94NLGkmQlr56Ovy8TcUCobQ==",
   "success": true,
-  "projectFilePath": "C:\\Exercicios Udemy C#\\TesteAtria\\AtriaSystem\\AtriaSystem\\AtriaSystem.csproj",
+  "projectFilePath": "C:\\Desenvolvimento\\AtriaSystem\\AtriaSystem\\AtriaSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\João Victor Borges\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

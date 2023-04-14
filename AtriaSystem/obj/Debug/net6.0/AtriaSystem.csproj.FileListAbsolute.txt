@@ -26,3 +26,31 @@ C:\Exercicios Udemy C#\TesteAtria\AtriaSystem\AtriaSystem\obj\Debug\net6.0\refin
 C:\Exercicios Udemy C#\TesteAtria\AtriaSystem\AtriaSystem\obj\Debug\net6.0\AtriaSystem.pdb
 C:\Exercicios Udemy C#\TesteAtria\AtriaSystem\AtriaSystem\obj\Debug\net6.0\AtriaSystem.genruntimeconfig.cache
 C:\Exercicios Udemy C#\TesteAtria\AtriaSystem\AtriaSystem\obj\Debug\net6.0\ref\AtriaSystem.dll
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\bin\Debug\net6.0\appsettings.json
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\bin\Debug\net6.0\AtriaSystem.staticwebassets.runtime.json
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\bin\Debug\net6.0\AtriaSystem.exe
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\bin\Debug\net6.0\AtriaSystem.deps.json
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\bin\Debug\net6.0\AtriaSystem.runtimeconfig.json
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\bin\Debug\net6.0\AtriaSystem.dll
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\bin\Debug\net6.0\AtriaSystem.pdb
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\AtriaSystem.csproj.AssemblyReference.cache
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\AtriaSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\AtriaSystem.AssemblyInfoInputs.cache
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\AtriaSystem.AssemblyInfo.cs
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\AtriaSystem.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\AtriaSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\AtriaSystem.RazorAssemblyInfo.cache
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\AtriaSystem.RazorAssemblyInfo.cs
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\scopedcss\bundle\AtriaSystem.styles.css
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\scopedcss\projectbundle\AtriaSystem.bundle.scp.css
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\AtriaSystem.csproj.CopyComplete
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\AtriaSystem.dll
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\refint\AtriaSystem.dll
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\AtriaSystem.pdb
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\AtriaSystem.genruntimeconfig.cache
+C:\Desenvolvimento\AtriaSystem\AtriaSystem\obj\Debug\net6.0\ref\AtriaSystem.dll
