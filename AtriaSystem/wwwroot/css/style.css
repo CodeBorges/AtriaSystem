@@ -1,0 +1,67 @@
+﻿body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#user-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.user-card {
+    width: 200px;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+    .user-card img {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        margin-bottom: 1rem;
+    }
+
+    .user-card h2 {
+        font-size: 1.2rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .user-card p {
+        margin-bottom: 0.5rem;
+    }
+
+    .user-card .fa-mars {
+        color: blue;
+    }
+
+    .user-card .fa-venus {
+        color: pink;
+    }
+
+.centro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+}
+
+.meu-botao {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+    .meu-botao:hover {
+        background-color: #0056b3;
+    }
